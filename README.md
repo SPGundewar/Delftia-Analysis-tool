@@ -210,6 +210,3 @@ All educational materials are shared under the NC State **Alt-Textbook Open Educ
 
 ```
 
----
-
-
