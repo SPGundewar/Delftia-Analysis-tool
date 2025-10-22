@@ -177,8 +177,8 @@ This project supports **open pedagogy** and **experiential learning**:
 | Name                     | Role                                                       |
 | ------------------------ | ---------------------------------------------------------- |
 | **Dr. Carlos C. Goller** | Project Lead / Faculty Mentor                              |
-| **Soham Gundewar**       | Data Engineering • Machine Learning • Tool Development     |
-| **Shruti Kulkarni**      | Educational Integration • Documentation • Dashboard Design |
+| **Soham Gundewar**       | Data Engineering • Machine Learning • Tool Development • Dashboard Design |
+| **Shruti Kulkarni**      | Data Engineering • Machine Learning • Tool Development • Dashboard Design |
 
 ---
 
