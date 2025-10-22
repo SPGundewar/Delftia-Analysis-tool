@@ -1,10 +1,10 @@
 # 🧬 **Delftia Learning & Genomics Platform**
-### _Open Pedagogy • Genome Analytics • Machine Learning for Microbial Discovery_
+### Genome Analytics • Machine Learning for Microbial Discovery_
 
 ---
 
 ## 🌍 **Overview**
-This repository hosts the development of an **open-source educational and research platform** focused on _Delftia acidovorans_ and _Delftia tsuruhatensis_ — unique microbes known for **gold biomineralization** and **harmane biosynthesis**.
+This repository hosts the development of an **open-source educational and research platform** focused on _Delftia tsuruhatensis_ — unique microbes known for **gold biomineralization** and **harmane biosynthesis**.
 
 The project blends:
 - 🧫 **Microbiology Education** – GitHub-based electronic lab notebooks (ELNs) for student learning  
