@@ -208,5 +208,3 @@ All educational materials are shared under the NC State **Alt-Textbook Open Educ
 
 > “Turning genomes into classrooms — where every gene tells a story.”
 
-```
-
