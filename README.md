@@ -1,5 +1,3 @@
-
-````markdown
 # 🧬 **Delftia Learning & Genomics Platform**
 ### _Open Pedagogy • Genome Analytics • Machine Learning for Microbial Discovery_
 
